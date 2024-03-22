@@ -25,5 +25,4 @@ The results in the pdf papers.
 ## References
 The project references several resources for theoretical understanding and practical implementation. These include textbooks, online resources, and laboratory manuals.
 
-## Contributors
 This project is a collaborative effort of a dedicated team of students from the Department of Electrical and Computer Engineering, Faculty of Engineering and Technology, Birzeit University.
