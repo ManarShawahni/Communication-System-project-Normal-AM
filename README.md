@@ -14,11 +14,16 @@ The project extensively uses MATLAB "Codes ans Simulink" for data analysis, sign
 
 ## Procedure
 The project is divided into two phases:
-- Phase One covers AM modulation, demodulation circuit using MATLAB.
-  ![image](https://github.com/ManarShawahni/Communication-System-project/assets/137074063/01c14ebc-9222-4dfe-9132-2dfe55d340ef)
+- Phase One covers AM modulation, demodulation circuit using MATLAB SIMULINK.
+
+<p align="center">
+<img src="https://github.com/ManarShawahni/Communication-System-project/assets/137074063/01c14ebc-9222-4dfe-9132-2dfe55d340ef" width="500">
+</p>
 
 - Phase Two focuses on building the circuit using the components in TinkerCad to see the results on oscilloscope.
-  ![image](https://github.com/ManarShawahni/Communication-System-project/assets/137074063/bddc5f35-2d58-4a40-94d7-3c6854f00702)
+<p align="center">
+<img src="https://github.com/ManarShawahni/Communication-System-project/assets/137074063/bddc5f35-2d58-4a40-94d7-3c6854f00702" width="500">
+</p>
 
 The results in the pdf papers.
 
